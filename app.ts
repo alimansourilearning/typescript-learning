@@ -39,3 +39,9 @@ let someUnknown: unknown = "hello";
 
 let someAny: any = "thanks";
 let someNumber: number = someAny;
+
+// let myLastname: string = 123456;
+
+// let myPhoneNumber: string = 123456;
+
+// let myUserId: string = 123456
