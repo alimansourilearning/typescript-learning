@@ -10,7 +10,7 @@ let isStudent: boolean = true;
 
 let names: string[] = ["ali", "mohammad", "hassan"];
 
-let scores: Array<number> = [100, 200, 300];
+// let scores: Array<number> = [100, 200, 300];
 
 let data: any = "hello";
 data = 10;
